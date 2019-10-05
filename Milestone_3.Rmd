@@ -1,0 +1,15 @@
+---
+title: "Milestone 3"
+author: "Emmanuel Calivo"
+date: "10/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I would like to do my final project about public transportation in the San Francisco Bay Area, the region which I call home. I'd like to examine the growth of public transportation in the region as tech jobs and other fields have prospered in recent years, which is possible due to BART (Bay Area Rapid Transit) providing public transportation throughout the region, especially due to the ongoing population growth in the area. BART's website provides [monthly transportation and ridership data](https://www.bart.gov/about/reports/ridership) dating from Fall 2019 all the way back to 2001, so I'll be able to compare the populations and ridership for an 18-year period. I also hope to, eventually, compare this growth amongst the growth for other systems, such as the LA Metro (currently in the process of expansion to prepare for hosting the 2028 Summer Olympics), the NYC Subway, the Massachusetts MBTA, and perhaps other systems that report higher/more efficient ridership.
+
+Currently, the spreadsheets are divided based on entry & exit stations. I'd like to create a single table that demonstrates across growth numbers as time has gone on, in order to simplify data collection and data tables. I would also then collect ridership data from other cities, and, perhaps, even state and national departments of transportations in order to verify accurate counts.
+
